@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 23,
+    "uniqCompNum": 24,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-96x96-128x128-2.png",
     "noImageResize": ""
@@ -64,7 +64,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/background-florida-2000x1291.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/together-2000x1413.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -95,7 +95,144 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>All In One Profits it's ALL you need. ALL the essential, sought after web tools every marketer needs to succeed  online are here and included in your  membership: Basic or Pro, choose what is good for you but take this chance to build your business. Simple and affordable makes sense, plus our team helps you market All In One Profits as a separate business. &nbsp;Our Team - AIOP Aces Is Waiting To Help You Right Now!</i></span></font>"
+          "text": "<font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>All In One Profits it's ALL you need. ALL the essential, web tools every marketer needs to succeed  online are here and included in your  membership: Basic or Pro, choose what is good for you. Take this chance to build your business. Simple and affordable is the perfect fit for any new online marketer, &nbsp;plus our team helps you market All In One Profits as a separate business. &nbsp;Our Team - <b>AIOP ACES</b> Is <b>Waiting To Help You Right Now!</b></i></span></font>"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-n",
+          "_params": {
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b1c89a",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title1": "Professional Autoresponder",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Skyrocket your business with unlimited autoresponders, campaigns, subscribers and followups. &nbsp;Built in anti-spam filters, &nbsp;easy unsubscribe links and customizable HTML forms.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "growing-chart",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title2": "Tracker",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Time is money with the AIOP Tracker. Shorten, brand and cloak links. Geo location tracker, source tracker, CTR to referral stats",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "sites",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title3": "Splash/Squeeze Builder",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Unlimited page builder featuring 5 templates, background library, header, footer images, images and html editor",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "cloud",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title4": "Hosting",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Choose an AIOP sub-domain on basic accounts or full hosting with your own domain. with 99.9% uptime quality hosting",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -343,20 +480,23 @@
             },
             ".mbr-section-title": {
               "font-size": "30px",
-              "color": "#f28281"
+              "color": "#efefef"
             },
             "SMALL": {
-              "color": "#f3c649"
+              "color": "#ffffff",
+              "font-size": "20px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_anchor": "form1-j",
           "_params": {
             "labelsColor": "#232323",
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1342.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": false,
@@ -418,7 +558,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#f7da64",
+            "bgColor": "#f3c649",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
