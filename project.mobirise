@@ -258,7 +258,7 @@
           "title1": "Step 1",
           "subtitle1": "Start Here",
           "caption1": "Click the button below and fill out the form with your name, email address and your username. &nbsp;&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"https://allinoneprofits.com/join.php\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://allinoneprofits.com/?id=frobertson\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/escalators-600x399.jpg",
