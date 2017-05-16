@@ -476,7 +476,7 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#ffffff"
             },
             ".mbr-section-title": {
               "font-size": "30px",
@@ -491,7 +491,7 @@
           },
           "_anchor": "form1-j",
           "_params": {
-            "labelsColor": "#232323",
+            "labelsColor": "#ffffff",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
