@@ -44,14 +44,14 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#fac51c",
+              "color": "#de30ac",
               "font-size": "46px"
             },
             ".lead B": {
               "color": "#efefef"
             },
             ".lead H3": {
-              "color": "#cccccc"
+              "color": "#00a885"
             }
           },
           "_tags": [
@@ -64,7 +64,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/together-2000x1413.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/family-life-2000x1409.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -81,7 +81,7 @@
             "showButton": false
           },
           "title": "We Don't Just Say We Do It... &nbsp;We Really Do Help You",
-          "text": "<h3><b>Four Steps To Monthly Residual income</b></h3>",
+          "text": "<h4><b><br></b></h4><h3>Four Steps To Monthly Residual income</h3>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -280,7 +280,9 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "18px"
+              "font-size": "20px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -365,7 +367,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;ALL IN ONE PROFIT - AIOP ACES</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://allinoneprofits.com/?id=frobertson\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">&nbsp;ALL IN ONE PROFIT</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://join.skype.com/lcjDyYiblKhS\" target=\"_blank\">Connect Now</a></li>"
         },
         {

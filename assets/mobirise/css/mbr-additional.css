@@ -1,8 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -424,14 +426,14 @@ h6,
   color: #fff;
 }
 #msg-box8-d .mbr-section-title {
-  color: #fac51c;
+  color: #de30ac;
   font-size: 46px;
 }
 #msg-box8-d .lead B {
   color: #efefef;
 }
 #msg-box8-d .lead H3 {
-  color: #cccccc;
+  color: #00a885;
 }
 #header4-q .mbr-section-lead {
   font-family: 'Bitter', serif;
@@ -452,7 +454,8 @@ h6,
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
-  font-size: 18px;
+  font-size: 20px;
+  font-family: 'Oxygen', sans-serif;
 }
 #menu-0 .navbar-toggler {
   color: #ffffff;
