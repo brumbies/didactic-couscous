@@ -529,10 +529,10 @@
             },
             ".mbr-section-title": {
               "font-size": "30px",
-              "color": "#efefef"
+              "color": "#f28281"
             },
             "SMALL": {
-              "color": "#ffffff",
+              "color": "#f7da64",
               "font-size": "20px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
