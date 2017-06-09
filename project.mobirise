@@ -103,6 +103,17 @@
             "Theme"
           ],
           "_name": "header4",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "text-align": "left",
+              "color": "#fac51c"
+            },
+            ".btn": {
+              "font-size": "18px"
+            }
+          },
           "_anchor": "header4-q",
           "_params": {
             "parallax": true,
@@ -127,18 +138,7 @@
           },
           "title": "All In One Profits",
           "text": "<br>This works for moms, dads, stay at home parents and retirees. Work part-time, full-time whether you are a newbie or gurus. Get started with your own online business within a business today, and start earning with the help of our team. A team of professional marketers that are waiting to help you reach your earning potential. We will show you the way, all you do is join and promote. &nbsp;As easy as 1, 2, 3, 4....below!",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://allinoneprofits.com/tour.php?id=frobertson\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; &nbsp; &nbsp;Take A Free Tour Today! &nbsp; &nbsp; &nbsp;</a>  ",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "text-align": "left",
-              "color": "#fac51c"
-            },
-            ".btn": {
-              "font-size": "18px"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://allinoneprofits.com/tour.php?id=frobertson\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; &nbsp; &nbsp;Take A Free Tour Today! &nbsp; &nbsp; &nbsp;</a>  "
         },
         {
           "_inherit": "features4",
@@ -378,8 +378,8 @@
           "_name": "footer1",
           "_anchor": "footer1-2",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -389,7 +389,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "&nbsp; AIOP Aces - Copyright (c) 2017."
+          "text": "&nbsp; AIOP -The Real Team - Copyright (c) 2017."
         },
         {
           "_tags": [
