@@ -523,6 +523,10 @@ h6,
   color: #232323;
   text-align: left;
 }
+#features3-6 H5 {
+  color: #0f0e0e;
+  font-size: 16px;
+}
 #form1-j .form-control-label {
   color: #ffffff;
 }
@@ -542,4 +546,7 @@ h6,
 #social-buttons3-f .mbr-section-title {
   font-size: 30px;
   color: #b8312f;
+}
+#social-buttons3-f .mbr-section-title SPAN {
+  font-size: 25px;
 }

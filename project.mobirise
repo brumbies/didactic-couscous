@@ -81,7 +81,7 @@
             "showButton": false
           },
           "title": "We Don't Just Say We Do It... &nbsp;We Really Do Help You",
-          "text": "<h4><b><br></b></h4><h3>Four Steps To Monthly Residual income</h3>",
+          "text": "<h4><b><br></b></h4><h3>Four Steps To Monthly Residual Income</h3>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -95,7 +95,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>All In One Profits it's ALL you need. ALL the essential, web tools every marketer needs to succeed  online are here and included in your  membership: Basic or Pro, choose what is good for you. Take this chance to build your business. Simple and affordable is the perfect fit for any new online marketer, &nbsp;plus our team helps you market All In One Profits as a separate business. &nbsp;Our Team - <b>AIOP ACES</b> Is <b>Waiting To Help You Right Now!</b></i></span></font>"
+          "text": "<font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>All In One Profits it's ALL you need. ALL the essential, web tools every marketer needs to succeed  online are here and included in your  membership: Basic or Pro, choose what is good for you. Take this chance to build your business. Simple and affordable is the perfect fit for any new online marketer, &nbsp;plus our team helps you market All In One Profits as a separate business. &nbsp;Our Team - <b>AIOP - The Real Team</b>&nbsp;Is <b>Waiting To Help You Right Now!</b></i></span></font>"
         },
         {
           "_inherit": "header1",
@@ -396,6 +396,10 @@
             "P": {
               "color": "#232323",
               "text-align": "left"
+            },
+            "H5": {
+              "color": "#0f0e0e",
+              "font-size": "16px"
             }
           },
           "_anchor": "features3-6",
@@ -482,7 +486,7 @@
             }
           },
           "title4": "Step 4",
-          "subtitle4": "Advertise, Avertise, Advertise",
+          "subtitle4": "Advertise, Advertise, Advertise",
           "caption4": "Advertise your affiliate link wherever you can. &nbsp;Click the button below for more details.",
           "button4": "<a data-app-btn=\"true\" href=\"http://amazon-affiliate-guide.biz/aiopteam.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media5": {
@@ -586,6 +590,9 @@
             ".mbr-section-title": {
               "font-size": "30px",
               "color": "#b8312f"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "25px"
             }
           },
           "_tags": [
@@ -610,7 +617,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Share This Page"
+          "text": "<span style=\"font-weight: normal;\">Everyone's A Winner When You Share</span>"
         }
       ]
     }
