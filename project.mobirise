@@ -44,14 +44,14 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#de30ac",
+              "color": "#f7da64",
               "font-size": "46px"
             },
             ".lead B": {
               "color": "#efefef"
             },
             ".lead H3": {
-              "color": "#00a885"
+              "color": "#f28281"
             }
           },
           "_tags": [
@@ -114,7 +114,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/oGeEPrnKikw?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/HY96tPtQmuc?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -127,12 +127,16 @@
           },
           "title": "All In One Profits",
           "text": "<br>This works for moms, dads, stay at home parents and retirees. Work part-time, full-time whether you are a newbie or gurus. Get started with your own online business within a business today, and start earning with the help of our team. A team of professional marketers that are waiting to help you reach your earning potential. We will show you the way, all you do is join and promote. &nbsp;As easy as 1, 2, 3, 4....below!",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://allinoneprofits.com/tour.php?id=frobertson\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp;Take A Free Tour &nbsp; &nbsp;&nbsp;</a>  ",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://allinoneprofits.com/tour.php?id=frobertson\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; &nbsp; &nbsp;Take A Free Tour Today! &nbsp; &nbsp; &nbsp;</a>  ",
           "_styles": {
             ".mbr-section-lead": {
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#fac51c"
+            },
+            ".btn": {
+              "font-size": "18px"
             }
           }
         },
@@ -280,7 +284,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "20px",
+              "font-size": "24px",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
@@ -367,7 +371,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://allinoneprofits.com/?id=frobertson\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">&nbsp;ALL IN ONE PROFIT</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://allinoneprofits.com/?id=frobertson\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">&nbsp;ALL IN ONE PROFITS</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://join.skype.com/lcjDyYiblKhS\" target=\"_blank\">Connect Now</a></li>"
         },
         {

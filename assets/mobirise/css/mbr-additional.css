@@ -426,18 +426,22 @@ h6,
   color: #fff;
 }
 #msg-box8-d .mbr-section-title {
-  color: #de30ac;
+  color: #f7da64;
   font-size: 46px;
 }
 #msg-box8-d .lead B {
   color: #efefef;
 }
 #msg-box8-d .lead H3 {
-  color: #00a885;
+  color: #f28281;
 }
 #header4-q .mbr-section-lead {
   font-family: 'Bitter', serif;
   text-align: left;
+  color: #fac51c;
+}
+#header4-q .btn {
+  font-size: 18px;
 }
 #features7-n .card-subtitle {
   color: #bcbcbc;
@@ -454,7 +458,7 @@ h6,
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
-  font-size: 20px;
+  font-size: 24px;
   font-family: 'Oxygen', sans-serif;
 }
 #menu-0 .navbar-toggler {
