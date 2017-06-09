@@ -1,7 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -430,6 +432,10 @@ h6,
 }
 #msg-box8-d .lead H3 {
   color: #cccccc;
+}
+#header4-q .mbr-section-lead {
+  font-family: 'Bitter', serif;
+  text-align: left;
 }
 #features7-n .card-subtitle {
   color: #bcbcbc;

@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 24,
+    "uniqCompNum": 27,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-96x96-128x128-2.png",
     "noImageResize": ""
@@ -96,6 +96,45 @@
             "bgColor": "#fff"
           },
           "text": "<font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>All In One Profits it's ALL you need. ALL the essential, web tools every marketer needs to succeed  online are here and included in your  membership: Basic or Pro, choose what is good for you. Take this chance to build your business. Simple and affordable is the perfect fit for any new online marketer, &nbsp;plus our team helps you market All In One Profits as a separate business. &nbsp;Our Team - <b>AIOP ACES</b> Is <b>Waiting To Help You Right Now!</b></i></span></font>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-q",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/oGeEPrnKikw?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "All In One Profits",
+          "text": "<br>This works for moms, dads, stay at home parents and retirees. Work part-time, full-time whether you are a newbie or gurus. Get started with your own online business within a business today, and start earning with the help of our team. A team of professional marketers that are waiting to help you reach your earning potential. We will show you the way, all you do is join and promote. &nbsp;As easy as 1, 2, 3, 4....below!",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://allinoneprofits.com/tour.php?id=frobertson\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp;Take A Free Tour &nbsp; &nbsp;&nbsp;</a>  ",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "text-align": "left"
+            }
+          }
         },
         {
           "_inherit": "features4",
