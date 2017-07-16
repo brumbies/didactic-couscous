@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "All About You",
+    "name": "For You Only",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 27,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-96x96-128x128-2.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-32x32-128x128-1.png",
     "noImageResize": ""
   },
   "pages": {
